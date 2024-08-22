@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Outfit;
+  src: url(../fonts/outfit/Outfit-VariableFont_wght.ttf);
+}
+
+body {
+  margin: 0;
+  background-color: rgb(216,225,240);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  font-family: Outfit;
+  text-align: center;
+}
+p {
+  margin: 0;
+}

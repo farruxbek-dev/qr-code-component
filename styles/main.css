@@ -1,0 +1,23 @@
+main {
+  width: 273px;
+  height: 446px;
+  background-color: white;
+  border-radius: 16px;
+  box-shadow: 5px 5px 20px lightgray;
+  padding: 16px;
+}
+img {
+  height: 273px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+#p1 {
+  color: rgb(37,43,64);
+  font-size: 21px;
+  font-weight: bold;
+  margin-bottom: 18px;
+}
+#p2 {
+  font-size: 15px;
+  color: rgb(153,157,160);
+}
